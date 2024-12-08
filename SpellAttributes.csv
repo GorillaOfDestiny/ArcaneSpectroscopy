@@ -1,0 +1,37 @@
+Level,School,Damage Type,Area of Effect,Range,Duration
+0,Abjuration,-,-,1 mile,Instantaneous
+1,Conjuration,Acid,cone (15),10 feet,1 hour
+2,Divination,Bludgeoning,cone (30),100 feet,1 minute
+3,Enchantment,Cold,cone (40),120 feet,1 round
+4,Evocation,Fire,cone (60),150 feet,10 days
+5,Illusion,Force,cube (10),30 feet,10 minutes
+6,Necromancy,Lightning,cube (100),300 feet,24 hours
+7,Transmutation,Necrotic,cube (15),5 feet,30 days
+8,,Piercing,cube (150),500 feet,7 days
+9,,Poison,cube (20),500 miles,8 hours
+,,Psychic,cube (200),60 feet,Special
+,,Radiant,cube (2500),90 feet,Until dispelled
+,,Slashing,cube (30),Self,Up to 1 hour
+,,Thunder,cube (40),Sight,Up to 1 minute
+,,,cube (40000),Special,Up to 1 round
+,,,cube (5),Touch,Up to 10 minutes
+,,,cube (5280),Unlimited,Up to 2 hours
+,,,cylinder (10),,Up to 24 hours
+,,,cylinder (20),,Up to 8 hours
+,,,cylinder (40),,
+,,,cylinder (5),,
+,,,cylinder (50),,
+,,,cylinder (60),,
+,,,line (100),,
+,,,line (50),,
+,,,line (60),,
+,,,line (90),,
+,,,sphere (10),,
+,,,sphere (100),,
+,,,sphere (15),,
+,,,sphere (20),,
+,,,sphere (30),,
+,,,sphere (360),,
+,,,sphere (40),,
+,,,sphere (5),,
+,,,sphere (60),,
